@@ -4,6 +4,6 @@
 }
 
 body {
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(./assets/money.png);
-    background-size: cover;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(./assets/Track-Expenses-Best-Budgeting-Apps-For-Android-1200x720.jpg);
+    background-size: contain;
 }
